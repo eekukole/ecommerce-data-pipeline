@@ -1,0 +1,25 @@
+# Phase 1 - Local Development
+faker==20.1.0
+pandas==2.1.4
+sqlalchemy==2.0.23
+pymysql==1.1.0
+python-dotenv==1.0.0
+
+#Airflow (will be in Docker but for local testing)
+apache-airflow==2.7.3
+
+# Phase 2 - AWS
+boto3==1.34.0
+botocore==1.34.0
+
+# Phase 3 - Streaming (if chosen)
+kafka-python==2.0.2
+pyspark==3.5.0
+
+# Phase 3 - Observability (if chosen)
+great-expectations==0.18.0
+streamlit==1.29.0
+
+# General utilities
+python-json-logger==2.0.7
+pyyaml==6.0.1

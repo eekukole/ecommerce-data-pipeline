@@ -1,0 +1,4 @@
+# Phase 1 - Absolute minimum
+faker==20.1.0
+pymysql==1.1.0
+python-dotenv==1.0.0

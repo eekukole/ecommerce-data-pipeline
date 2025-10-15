@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# Data files
+data/events/*.json
+*.csv
+*.parquet
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Airflow
+airflow.db
+airflow.cfg
+logs/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# MySQL
+*.sql.bak
