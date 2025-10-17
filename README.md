@@ -331,6 +331,16 @@ python src/event_generator.py --events=50
 
 ---
 
+## 📸 Screenshots
+
+### Data Warehouse Schema
+![Schema](screenshots/table_count.png)
+
+### Sample Analytics
+![Analytics](screenshots/customer_segments.png)
+
+
+
 ## 📖 Documentation
 
 Additional documentation available in `/docs`:
